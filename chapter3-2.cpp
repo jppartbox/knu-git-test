@@ -26,7 +26,7 @@ Date::Date(string r) {
 	d = num3;
 }
 void Date::show() {
-	cout << y << "³â" << m << "¿ù" << d << "ÀÏ" << endl;
+	cout << y << "ï¿½ï¿½" << m << "ï¿½ï¿½" << d << "ï¿½ï¿½" << endl;
 }
 Date::Date(int a, int b, int c) {
 	year = a;
